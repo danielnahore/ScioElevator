@@ -1,0 +1,14 @@
+Vytah zavolán na patro 5.
+Cíl nastaven na patro 8.
+Vytah se pohybuje z patra 1 do patra 5.
+Vytah dorazil na patro 5.
+Vytah se pohybuje z patra 5 do patra 8.
+Vytah dorazil na patro 8.
+Vytah dokoncil vsechny pozadavky.
+Vytah zavolán na patro 3.
+Cíl nastaven na patro 10.
+Vytah se pohybuje z patra 8 do patra 3.
+Vytah dorazil na patro 3.
+Vytah se pohybuje z patra 3 do patra 10.
+Vytah dorazil na patro 10.
+Vytah dokoncil vsechny pozadavky.
